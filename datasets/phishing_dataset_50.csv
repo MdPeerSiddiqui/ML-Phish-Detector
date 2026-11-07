@@ -1,0 +1,61 @@
+email_text,label,category
+"Verify your Microsoft 365 account now or it will be suspended within 24 hours.",1,account_suspension
+"Click here immediately to claim your $500 Amazon corporate voucher reward.",1,financial_lure
+"Team standup at 3pm today, the agenda and sprint goals are attached.",0,internal_meeting
+"Your vendor invoice for Q2 software licensing is ready for accounting review.",0,finance_billing
+"Urgent: update your banking details immediately to avoid account closure.",1,banking_fraud
+"Weekly product design sync notes and Figma prototype link for the mobile app.",0,design_sync
+"Critical security alert: unauthorized login detected from Moscow. Verify now.",1,security_alert
+"Reminder: Quarterly town hall meeting scheduled for this Thursday morning.",0,company_announcement
+"You have received a secure encrypted message from executive HR. Open attachment.",1,malicious_attachment
+"Please review the pull request for the authentication rate limiter on GitHub.",0,code_review
+"Your payroll direct deposit failed. Update your banking credentials at this portal.",1,credential_harvesting
+"Attached is the monthly cloud infrastructure billing report from AWS.",0,cloud_billing
+"Immediate action required: upgrade your corporate VPN client to maintain access.",1,watering_hole_lure
+"Here is the updated conference room booking schedule for building B.",0,facilities_logistics
+"Your parcel delivery has been suspended due to an unpaid customs fee of $2.50.",1,smishing_delivery
+"Lunch order menu for Friday team pizza party. Please submit your preferences.",0,social_event
+"Password expiration notice: Your corporate Active Directory password expires today.",1,credential_harvesting
+"Draft copy of the annual cybersecurity policy document for legal review.",0,compliance_policy
+"Congratulations! You were selected as employee of the month. Click for $1000 prize.",1,gift_baiting
+"Notes from customer feedback interview regarding the API latency issues.",0,product_research
+"IRS Notice: Final tax payment overdue. Immediate penalty enforcement pending.",1,tax_fraud
+"IT Helpdesk ticket #4092 resolved: Monitor replacement delivered to desk 4B.",0,helpdesk_ticket
+"Your Netflix subscription has been paused. Update credit card details now.",1,subscription_scam
+"Reminder: Performance self-appraisals are due by end of month in BambooHR.",0,hr_appraisal
+"Urgent request from CEO: Wire $15000 to new vendor for acquisition immediately.",1,bec_ceo_fraud
+"Code freeze commences at 6pm ahead of production release v2.4.0.",0,devops_release
+"Your account was accessed from an unrecognized device. Click to secure it now.",1,security_alert
+"Minutes of the meeting with the European marketing and localization team.",0,meeting_notes
+"DocuSign: Please review and sign the attached Confidential Severance Agreement.",1,malicious_docusign
+"Quarterly budget allocation spreadsheet attached for department heads.",0,finance_budget
+"Security Breach Alert: Your credentials were leaked on dark web. Reset here.",1,credential_harvesting
+"Please submit your travel expense receipts for the Chicago cybersecurity summit.",0,expense_report
+"Important: Wire transfer instruction changed for vendor Apex Logistics.",1,bec_vendor_fraud
+"Customer support ticket escalation: Enterprise client reporting SSO timeout.",0,support_escalation
+"Your mailbox storage is 99% full. Click here to add 10GB free quota instantly.",1,storage_quota_scam
+"Invitation: Knowledge sharing session on Docker containerization best practices.",0,tech_talk
+"DHL Express: Package awaiting customs clearance. Download receipt attachment.",1,malicious_attachment
+"Updated remote work guidelines and home office ergonomic reimbursement policy.",0,company_policy
+"Immediate suspension: Copyright infringement detected on your shared drive.",1,legal_threat_lure
+"Sprint retrospective action items recorded in the Confluence workspace.",0,agile_retrospective
+"PayPal: You authorized a payment of $899.99 to Best Buy. Click to cancel.",1,payment_dispute_scam
+"Welcome our new frontend engineer Priya Sharma to the Bangalore engineering hub.",0,team_welcome
+"Bank of America: Unusual debit card activity detected. Verify your identity now.",1,banking_fraud
+"Please update your emergency contact details in the Workday employee directory.",0,hr_admin
+"Final Notice: Court subpoena issued against your company. Review summons.zip.",1,malicious_attachment
+"Shared document: Q3 sales target performance review metrics and analysis.",0,sales_metrics
+"LinkedIn: Mohammed sent you a private message regarding an executive position.",1,recruiter_baiting
+"Weekly engineering newsletter: Highlights from the open-source community.",0,newsletter
+"Urgent IT Notice: Zero-day vulnerability detected. Run this security patch bat file.",1,trojan_lure
+"Office closed on Monday for national public holiday. Have a wonderful weekend.",0,holiday_notice
+"Apple ID disabled: Unauthorized purchase of iPhone 15 Pro. Dispute charge here.",1,brand_impersonation
+"Architecture diagram and system specification doc for the new microservices mesh.",0,system_design
+"Action Required: Confirm your employee health insurance enrollment before midnight.",1,urgency_lure
+"Customer onboarding checklist completed for client Acme Healthcare Systems.",0,client_success
+"Dropbox: Sarah shared 'Q4_Executive_Salaries_Confidential.xlsx' with you.",1,cloud_share_scam
+"Database migration scheduled for Sunday at 02:00 AM UTC. Expect 15min downtime.",0,infrastructure_maintenance
+"Your credit score dropped by 45 points. Check your updated credit report now.",1,credit_scam
+"Reminder to complete the annual corporate ethics and compliance survey.",0,compliance_training
+"You have 1 pending voice message from HR Director. Listen to recording online.",1,vishing_voicemail_lure
+"Release notes for Python 3.12 compatibility upgrades across internal libraries.",0,release_notes

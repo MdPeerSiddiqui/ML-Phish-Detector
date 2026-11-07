@@ -1,0 +1,13 @@
+===============================================================================
+       SQROCK IT SOLUTIONS - ML PHISHING DETECTOR EVALUATION REPORT            
+===============================================================================
+Total Dataset Samples : 60
+Training Samples      : 48 | Testing: 12
+Model Accuracy        : 100.0%
+Precision             : 100.0%
+Recall                : 100.0%
+F1-Score              : 100.0%
+Confusion Matrix:
+  [TN: 6   | FP: 0  ]
+  [FN: 0   | TP: 6  ]
+===============================================================================
